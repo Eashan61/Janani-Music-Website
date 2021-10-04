@@ -1,0 +1,10 @@
+.text {
+  align-items: center;
+}
+.home-container {
+  justify-content: center;
+  align-items: center;
+}
+.popular {
+  margin: 20px;
+}
